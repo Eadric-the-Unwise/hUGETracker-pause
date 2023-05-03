@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "musicmanager.h": "c",
+        "sfxplayer.h": "c"
+    }
+}
